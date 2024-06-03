@@ -187,6 +187,11 @@
 		"href": "http://meddir.cn/",
 		"desc": "医学类网站导航",
 		"logo": "no-logo"
+	},{
+		"name": "站长导航",
+		"href": "https://www.saynav.com/",
+		"desc": "站长的网站导航",
+		"logo": "no-logo"
 	}]
 }, {
 	"_id": "wangpan",
