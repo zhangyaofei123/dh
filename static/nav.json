@@ -72,6 +72,11 @@
 		"href": "https://www.photopea.com/",
 		"desc": "在线ps，支持绝大多数功能。",
 		"logo": "static/icons/photopea.com.png"
+		}, {
+		"name": "不死鸟-分享为王官网",
+		"href": "https://iui.su/",
+		"desc": "在线ps，支持绝大多数功能。",
+		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
 	"_id": "yunpan",
